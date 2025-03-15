@@ -3,7 +3,7 @@ Hello! 👋 I’m a young Brazilian passionate about continuous learning and sel
 - ⚡ **Fun Fact**: I use **Arch Linux** btw! 🐧💻
 
 ### Languages
-- **French** 🇫🇷 (Learning actively, always motivated!) `sudo rm -fr /*`
+- **French** 🇫🇷 (Learning actively, always motivated!)
 - **English** 🇬🇧 (I’m not yet fluent, but I’m improving every day)
 
 ### 🧠 What I’m currently learning
