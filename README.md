@@ -50,3 +50,6 @@ Feel free to reach out to me for questions, advice, or just to chat about techno
 Thank you for visiting my profile! 🚀
 
 ⚡ **Fun Fact**: I use **Arch Linux** btw! 🐧💻 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jef-ersu&layout=compact&theme=radical) `this will change`
+
