@@ -20,4 +20,3 @@ Feel free to reach out! I'm happy to chat about tech.
 > "Somewhere, something incredible is waiting to be known." — Carl Sagan
 
 
-[arch]: https://img.shields.io/badge/-Arch_Linux-000000?style=flat&logo=arch-linux&logoColor=white "Arch Linux"
