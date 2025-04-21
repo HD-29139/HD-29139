@@ -1,19 +1,19 @@
 # HD-29139
 
-#### Languages
+### Languages
 - Portuguese 🇧🇷 (Native)
 - French 🇫🇷 (Learning)
 - English 🇬🇧 (Improving)
 
-#### Learning
+### Learning
 - Rust ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-#### Goals
+### Goals
 - Master programming fundamentals.
 - Build personal projects.
 - Contribute to open-source.
 
-#### Contact
+### Contact
 Feel free to reach out! I'm happy to chat about tech.
 
 
