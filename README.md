@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/ChatGPT%20Image%20Apr%2023%2C%202025%2C%2002_09_47%20AM.png" width="720" alt="HD-29139 - Aldebaran logo">
+  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/aldebaran.png" width="720" alt="HD-29139 - Aldebaran logo">
 </p>
 
 <h1 align="center">
