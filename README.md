@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/hd-29139.png" width="720" alt="HD-29139 - Aldebaran logo">
+  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/generated.png" width="720" alt="HD-29139 - Aldebaran logo">
 </p>
 
 <h1 align="center">
