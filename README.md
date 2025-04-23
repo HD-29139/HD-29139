@@ -1,22 +1,55 @@
-# HD-29139
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Exo2&size=30&pause=1000&color=6B24C0&center=true&vCenter=true&width=435&lines=-+%E2%8C%9E%CE%9BCDM%E2%8C%9D+-;%F0%9F%9B%B0HD-29139%F0%9F%9B%B0;-+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%97%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3+-" alt="Typing SVG" />
+</h1>
 
-### Languages
-- Portuguese 🇧🇷 (Native)
-- French 🇫🇷 (Learning)
-- English 🇬🇧 (Improving)
+<br/>
 
-### Learning
-- Rust ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+<div align="center">
 
-### Goals
-- Master programming fundamentals.
-- Build personal projects.
-- Contribute to open-source.
+Hey there! I'm a passionate beginner in the world of programming, driven by an insatiable curiosity and a deep fascination with the unknown — especially the cosmos. 
+> I'm here to grow, create, and push beyond my limits — one line of code at a time.
 
-### Contact
-Feel free to reach out! I'm happy to chat about tech.
+ </div>
+ <br>
+ <hr>
+<div align="center">
+  <h3>🛠️ Tools</h3>
+ <img src="https://skillicons.dev/icons?i=arch" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=rust,linux,bash,c,py" />
+</div>
 
+<br>
+
+<div align="center">
+<h3>📚 Currently Learning</h3>
+    <img src="https://skillicons.dev/icons?i=rust" />
+    <img src="https://github.com/user-attachments/assets/7aeefc7b-6dcf-4a86-b66f-8e15159deae8" height="54px" />
+    <img src="https://github.com/user-attachments/assets/0dbe5c8d-4566-4d10-b31e-7cb0a70c968a" height="54px" />
+</div>
+<hr>
+
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HD-29139&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HD-29139&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HD-29139&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+---
+
+### 🧠 Fun Fact
 
 > "Somewhere, something incredible is waiting to be known." — Carl Sagan
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HD-29139&label=Profile%20views&color=0e75b6&style=flat" alt="HD-29139" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
