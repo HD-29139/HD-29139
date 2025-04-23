@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/ChatGPT%20Image%20Apr%2023%2C%202025%2C%2002_09_47%20AM.png" width="720" alt="HD-29139 - Aldebaran logo">
+</p>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Exo2&size=30&pause=1000&color=6B24C0&center=true&vCenter=true&width=435&lines=-+%E2%8C%9E%CE%9BCDM%E2%8C%9D+-;%F0%9F%9B%B0HD-29139%F0%9F%9B%B0;-+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%97%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3+-" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Exo2&size=50&pause=1000&color=FF192B&center=true&vCenter=true&width=435&lines=-+%E2%8C%9E%CE%9BCDM%E2%8C%9D+-;%F0%9F%9B%B0HD-29139%F0%9F%9B%B0;-+%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%97%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3+-" alt="Typing SVG" />
 </h1>
 
 <br/>
@@ -30,8 +34,7 @@ Hey there! I'm a passionate beginner in the world of programming, driven by an i
     <img src="https://github.com/user-attachments/assets/7aeefc7b-6dcf-4a86-b66f-8e15159deae8" height="54px" />
     <img src="https://github.com/user-attachments/assets/0dbe5c8d-4566-4d10-b31e-7cb0a70c968a" height="54px" />
 </div>
-<hr>
-
+<br>
 
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HD-29139&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -40,13 +43,13 @@ Hey there! I'm a passionate beginner in the world of programming, driven by an i
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HD-29139&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
-
-### 🧠 Fun Fact
+<hr>
+<br>
 
 > "Somewhere, something incredible is waiting to be known." — Carl Sagan
 
----
+<br>
+<hr>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HD-29139&label=Profile%20views&color=0e75b6&style=flat" alt="HD-29139" />
