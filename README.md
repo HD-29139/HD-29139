@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/hd-29139.png" width="720" alt="HD-29139 - Aldebaran logo">
 </p>
@@ -33,7 +34,6 @@ Hey there! I'm a passionate beginner in the world of programming, driven by an i
     <img src="https://skillicons.dev/icons?i=rust" />
     <img src="https://github.com/user-attachments/assets/7aeefc7b-6dcf-4a86-b66f-8e15159deae8" height="54px" />
     <img src="https://github.com/user-attachments/assets/0dbe5c8d-4566-4d10-b31e-7cb0a70c968a" height="54px" />
-</div>
 <br>
 
 <div align="center">
@@ -52,7 +52,16 @@ Hey there! I'm a passionate beginner in the world of programming, driven by an i
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HD-29139&label=Profile%20views&color=0e75b6&style=flat" alt="HD-29139" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
+  <a href="https://www.instagram.com/mov.gabriel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@overdadeirogabriel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/MIT-purple?style=for-the-badge" alt="License: MIT"/>
+  </a>
+</p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=HD-29139&label=Profile%20views&color=0e75b6&style=flat" alt="HD-29139" />
 </p>
