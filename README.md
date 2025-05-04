@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/what.mp4" width="720">
+  <img src="https://github.com/HD-29139/HD-29139/blob/main/assets/what.gif" width="720">
 </p>
 
 <h1 align="center">
